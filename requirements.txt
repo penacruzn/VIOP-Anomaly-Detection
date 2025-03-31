@@ -1,0 +1,15 @@
+#Use these commands, if you don't trust me then search up pyqt, numpy, and pandas
+#UPDATE as necessary
+
+#What is the purpose of the packages?
+#PyQT is a gui which supports graphs
+#pandas / numpy are math and data related
+#pyshark is the wireshark python class
+
+
+
+
+PyQt6
+pandas
+numpy
+pyshark
